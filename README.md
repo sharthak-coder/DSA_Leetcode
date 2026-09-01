@@ -1,6 +1,6 @@
-# 🚀 DSA LeetCode (C Solutions)
+# 🚀 DSA LeetCode (C/C++ Solutions)
 
-A structured collection of Data Structures and Algorithms problems solved on [LeetCode](https://leetcode.com/) using **C**. 
+A structured collection of Data Structures and Algorithms problems solved on [LeetCode](https://leetcode.com/) using **C/C++**. 
 
 This repository tracks my problem-solving journey, memory-efficient implementations, and core algorithm practice, automatically synced via browser integration.
 
@@ -14,6 +14,6 @@ This repository tracks my problem-solving journey, memory-efficient implementati
 ---
 
 ### 🛠️ Language & Standards
-* **Language:** C (C99 / C11)
+* **Language:** C (C99 / C11) or C++
 * **Compiler/Platform:** LeetCode GCC Environment
 * **Sync Tool:** LeetSync / LeetHub v2
